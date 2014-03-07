@@ -1,6 +1,6 @@
 ski-site
 ========
 
-Ski-site
+Very simple site illustrating the contrasting pastimes of skiing and sunbathing.
 
-1 hr ski site
+Now live at www.ski-kini.com
