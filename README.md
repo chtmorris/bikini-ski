@@ -1,4 +1,4 @@
-ski-site
+Ski-kini.com
 ========
 
 Very simple site illustrating the contrasting pastimes of skiing and sunbathing.
