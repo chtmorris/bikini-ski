@@ -4,7 +4,7 @@ $ ->
   console.log "videoID[1]: " + videoID[1]
 
   embedCodeGenerator = (thumbNumber) ->
-    '<iframe width="1366" height="768" src="http://www.youtube.com/embed/' + videoID[thumbNumber] + '" frameborder="0" allowfullscreen></iframe>'
+    '<iframe width="720" height="576" src="http://www.youtube.com/embed/' + videoID[thumbNumber] + '" frameborder="0" allowfullscreen></iframe>'
 
   thumbnailCodeGenerator = (thumbNumber) ->
     "<img src='http://img.youtube.com/vi/#{videoID[thumbNumber]}/0.jpg'></img>"

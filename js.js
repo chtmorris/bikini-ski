@@ -2,7 +2,7 @@
 (function() {
   $(function() {
     var embedCodeGenerator, thumbnailCodeGenerator, videoID;
-    videoID = ["_BwwkFjAxzU", "YFp4X5Ivixs", "VkMiaSc4F4o", "b2dam2LjUV0", "YoiE_8Pu7zo", "c9VOjwb1tQ4", "NwioaHZwqSs", "JwOSSyesNiI", "VOIjUymq10o", "Ld-80DdXmMI"];
+    videoID = ["_BwwkFjAxzU", "YFp4X5Ivixs", "VkMiaSc4F4o", "b2dam2LjUV0", "YoiE_8Pu7zo", "c9VOjwb1tQ4"];
     console.log("videoID[1]: " + videoID[1]);
     embedCodeGenerator = function(thumbNumber) {
       return '<iframe width="720" height="576" src="http://www.youtube.com/embed/' + videoID[thumbNumber] + '" frameborder="0" allowfullscreen></iframe>';
