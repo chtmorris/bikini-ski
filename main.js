@@ -71,7 +71,7 @@
             $('<img class="fp_preview"/>').load(function(){
               var $newimg     = $(this);
               var $currImage  = $('#fp_gallery').children('img:first');
-              $newimg.insertBefore($currImage);
+              // $newimg.insertBefore($currImage);
               $loader.hide();
               //expand clone
               $theClone.animate({
