@@ -1,0 +1,49 @@
+body{
+  background: no-repeat center center fixed;
+  background-size:cover;
+}
+
+header{
+  text-align: right;
+  font-size: 30px;
+  padding: 10px;
+  color: hsla(0, 0%, 100%, 0.6);
+  font-family: 'Revalia', cursive;
+}
+
+.mainVideo{
+  text-align: center;
+  margin-top: -30px;
+}
+
+#test {
+  width: 400px;
+  height: 200px;
+  background-color: red;
+}
+
+.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img{
+  height: 150px;
+  margin: auto;
+}
+
+#carousel{
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+  background: hsla(0, 0%, 0%, 0.6);
+}
+
+.row {
+  text-align: center;
+}
+
+.col-sm-3 {
+  height: 150px;
+}
+
+.thumbnails {
+   height: 150px;
+}
+
+

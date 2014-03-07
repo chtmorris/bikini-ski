@@ -1,6 +1,6 @@
-bikini-ski
-==========
+ski-site
+========
 
-Bikini skiing baby
+Ski-site
 
-One day bikini ski hack
+1 hr ski site
